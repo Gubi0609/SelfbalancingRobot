@@ -1,4 +1,4 @@
-# Selfbalancing Robot
+# C.A.R.B. (Controllable Autonomous Robot Balancer)
 This project aspires to develop a self balancing robot using an ESP32 and to be able to move the robot using a controller.
 
 ## Project Goals
