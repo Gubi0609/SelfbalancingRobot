@@ -11,6 +11,7 @@ This project aspires to develop a self balancing robot using an ESP32 and to be 
 - A stylish exterior for the robot
 - A rechargeable battery and accompanying protection circuit
 - A custom PCB to house all the electronics
+- USE PLATFORMIO INSTEAD OF ARDUINO IDE TO FORMAT FOLDERS
 
 ## Learning Goals
 - Kalman filter
