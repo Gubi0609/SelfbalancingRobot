@@ -1,5 +1,5 @@
 #include <math.h>
-#include "./include/Kalman.h"
+#include "Kalman.h"
 #include <Wire.h>
 
 #define MPU_ADDR 0x68

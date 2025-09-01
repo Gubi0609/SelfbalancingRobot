@@ -1,7 +1,7 @@
 #ifndef KALMAN_H
 #define KALMAN_H
 
-#include "./BasicLinearAlgebra-master/BasicLinearAlgebra.h"
+#include <BasicLinearAlgrebra.h>
 
 using namespace BLA;
 

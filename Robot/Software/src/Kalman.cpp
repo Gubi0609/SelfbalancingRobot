@@ -1,4 +1,4 @@
-#include "./include/Kalman.h"
+#include "Kalman.h"
 
 Kalman::Kalman(Matrix<3,1> initialEstimate, Matrix<3,3> initialCoveriance, Matrix<2,2> measureError, Matrix<3,3> stateError, Matrix<2,3> H, Matrix<3,3> A) {
     
